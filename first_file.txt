@@ -1,1 +1,2 @@
 I am creating file through terminal
+apending line
